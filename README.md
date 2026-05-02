@@ -17,8 +17,8 @@
 
 <div align="center">
 
-<a href="https://sylvy.top" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-sylvy.top-FF6B35?style=for-the-badge&logo=rss&logoColor=white" />
+<a href="https://sylv.top" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-sylv.top-FF6B35?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 <a href="mailto:sylvy@842166.xyz">
   <img src="https://img.shields.io/badge/Email-sylvy@842166.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,6 +28,6 @@
 
 <i>"Let's code the future together." 🌟</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer" width="100%"/>
 
 </div>
